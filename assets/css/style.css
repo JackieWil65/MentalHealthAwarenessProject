@@ -3,7 +3,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Sofadi+One&display=swap");
 
 #heading-top{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px #2a2a9e;
+    letter-spacing: 3px;
 }
 
 header {
@@ -68,7 +70,7 @@ main {
 
 /* ==============================================================resource links navbar style*/
 
-div nav {
+.nav {
   position: sticky;
   background-color: rgba(12, 18, 115, 0.8);
   width: 100%;
@@ -107,8 +109,9 @@ div nav {
 }
 
 .nav #crisis {
-  background-color: #4edda9f5;
+  background-color: #045738f5;
   color: #b92828;
+  text-shadow: 2px 2px #222121;
   font-size: 1.5rem;
   font-weight: 600;
 }
