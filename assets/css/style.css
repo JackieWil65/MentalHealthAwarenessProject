@@ -1,109 +1,106 @@
 /* ===================================================================Font/Favicon imports */
-@import url('https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Sofadi+One&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Sofadi+One&display=swap");
 
-body{
-    background-color: darkseagreen;
+header {
+  position: sticky;
+  top: 0;
+  padding: 10px 16px;
+  background-color: #0c4833;
+  color: #f1f1f1;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
 }
 
-header{
-    position: sticky;
-    top: 0;
-    padding: 10px 16px;
-    background-color: #01150e;
-    color: #f1f1f1;
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
+ul {
+  list-style-type: none;
 }
 
-ul{
-    list-style-type: none;
+ul a {
+  color: #fcf8f8;
+  text-decoration: none;
 }
 
-ul a{
-    color: #fcf8f8;
-    text-decoration: none;
-}
-
-ul a:hover{
-color: #f1f1f1;
+ul a:hover {
+  color: #b71919;
 }
 /* =======================================================navbar styles with dropdown toggle */
-nav{
-    position: absolute;
-    background-color: #01150e;
-    width: 100%;
-    left: 0;
-    padding: 0 1rem;
-    box-shadow: none;
-    display: none;top: 100%;
+nav {
+  position: absolute;
+  background-color: #01150e;
+  width: 100%;
+  left: 0;
+  padding: 0 1rem;
+  box-shadow: none;
+  display: none;
+  top: 100%;
 }
 
 /* ================================================================================nav toggle */
-# nav-toggle:checked~nav {
-    display: block;
+# nav-toggle:checked ~ nav {
+  display: block;
 }
 
-# nav-toggle{
-    display: none;
+# nav-toggle {
+  display: none;
 }
 
-.nav-toggle-label{
-    font-size: 2rem;
+.nav-toggle-label {
+  font-size: 2rem;
 }
 
 /* =======================================================================================main*/
 
-main{
-    padding-left: 3rem;
-    padding-right: 3rem;
+main {
+  padding-left: 3rem;
+  padding-right: 3rem;
 }
 
 /* =======================================================================jumbotron font style*/
 .mb-3 {
-    font-family: Sofadi One, sans-serif;
-  }
-
-  /* ==============================================================resource links navbar style*/
-
-  .nav{
-    position: sticky;
-    background-color: #346697;
-    width: 100%;
-    overflow: hidden;
-    box-shadow: 0 8px 8px #3a3a3a;
-    border-radius: 5px;
-  }
-
-  /* ========================================================resource links navbar links format*/
-
-  .nav a{
-    font-family: Lexend, sans-serif;
-    float: right;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 17px 17px;
-    text-decoration: none;
-    font-size: 15px;
-  }
-
-  /* ===========================================resource links navbar links active/ hover format*/
-
-.nav a:hover{
-    background-color: #083713;
-    color: #346697;
+  font-family: Sofadi One, sans-serif;
 }
 
-.nav a.active{
-    background-color: aqua;
-    color: #fff;
+/* ==============================================================resource links navbar style*/
+
+.nav {
+  position: sticky;
+  background-color: #096123;
+  width: 100%;
+  overflow: hidden;
+  box-shadow: 0 8px 8px #3a3a3a;
+  border-radius: 5px;
 }
 
-.nav #crisis{
-    background-color: #073222;
-    color: #f1f1f1;
-    font-size: 1.5rem;
+/* ========================================================resource links navbar links format*/
+
+.nav a {
+  font-family: Lexend, sans-serif;
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 17px 17px;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+/* ===========================================resource links navbar links active/ hover format*/
+
+.nav a:hover {
+  background-color: #083713;
+  color: #34976c;
+}
+
+.nav a.active {
+  background-color: rgb(51, 112, 80);
+  color: #fff;
+}
+
+.nav #crisis {
+  background-color: #41c292f5;
+  color: #f1f1f1;
+  font-size: 1.5rem;
 }
 
 /* * div text-bold{
@@ -111,17 +108,90 @@ main{
     color: rgb(13,43,13);
 } */
 
-
 /* ====================================================================main text and lists style*/
-  .heading3{
+.heading3 {
+  text-align: center;
+  font-weight: 500;
+}
+
+main ul {
+  text-align: center;
+  font-size: 20px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* ======================================================================================footer*/
+
+footer {
+  background-color: #01150e;
+  color: #ede6e6;
+}
+
+#socials {
+  text-align: center;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+}
+
+/* ================================================================================media queries*/
+
+@media only screen and (min-width: 761px) {
+  .nav a {
+    float: none;
+    display: block;
+    width: 100%;
     text-align: center;
-    font-weight: 500;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .nav a {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .nav a {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .nav a {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  nav {
+    display: block;
+    position: relative;
+    width: fit-content;
+    padding-right: 1rem;
   }
 
-  main ul{
-    text-align: center;
-    font-size: 20px;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+  #links {
+    display: flex;
   }
+
+  #links > li {
+    padding-left: 1rem;
+  }
+
+  .nav-toggle-label {
+    display: none;
+  }
+}
