@@ -2,11 +2,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Sofadi+One&display=swap");
 
+#heading-top{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 header {
   position: sticky;
   top: 0;
   padding: 10px 16px;
-  background-color: #0c4833;
+  background-color: #01150e;
   color: #f1f1f1;
   display: flex;
   justify-content: space-between;
@@ -66,7 +70,7 @@ main {
 
 .nav {
   position: sticky;
-  background-color: #096123;
+  background-color: rgba(18, 93, 27, 0.8);
   width: 100%;
   overflow: hidden;
   box-shadow: 0 8px 8px #3a3a3a;
@@ -93,7 +97,7 @@ main {
 }
 
 .nav a.active {
-  background-color: rgb(51, 112, 80);
+  background-color: rgba(59, 139, 68, 0.8);
   color: #fff;
 }
 
