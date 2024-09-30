@@ -65,7 +65,7 @@ main{
     font-family: Sofadi One, sans-serif;
   }
 
-  /* =============================================================================navbar style*/
+  /* ==============================================================resource links navbar style*/
 
   .nav{
     position: sticky;
@@ -76,7 +76,7 @@ main{
     border-radius: 5px;
   }
 
-  /* =========================================================================navbar links style*/
+  /* ========================================================resource links navbar links format*/
 
   .nav a{
     font-family: Lexend, sans-serif;
@@ -87,6 +87,11 @@ main{
     text-decoration: none;
     font-size: 15px;
   }
+
+  /* ===========================================resource links navbar links active/ hover format*/
+
+
+
 
 /* ====================================================================main text and lists style*/
   .heading3{
