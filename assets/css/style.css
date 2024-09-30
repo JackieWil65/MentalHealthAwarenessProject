@@ -65,8 +65,30 @@ main{
     font-family: Sofadi One, sans-serif;
   }
 
-  /* ===============================================================================navbar style*/
+  /* =============================================================================navbar style*/
 
+  .nav{
+    position: sticky;
+    background-color: #346697;
+    width: 100%;
+    overflow: hidden;
+    box-shadow: 0 8px 8px #3a3a3a;
+    border-radius: 5px;
+  }
+
+  /* =========================================================================navbar links style*/
+
+  .nav a{
+    font-family: Lexend, sans-serif;
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 17px 17px;
+    text-decoration: none;
+    font-size: 15px;
+  }
+
+/* ====================================================================main text and lists style*/
   .heading3{
     text-align: center;
     font-weight: 500;
