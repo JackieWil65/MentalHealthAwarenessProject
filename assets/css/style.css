@@ -42,11 +42,11 @@ nav {
 }
 
 /* ================================================================================nav toggle */
-# nav-toggle:checked ~ nav {
+#nav-toggle:checked ~ nav {
   display: block;
 }
 
-# nav-toggle {
+#nav-toggle {
   display: none;
 }
 
@@ -68,14 +68,19 @@ main {
 
 /* ==============================================================resource links navbar style*/
 
-.nav {
+div nav {
   position: sticky;
-  background-color: rgba(18, 93, 27, 0.8);
+  background-color: rgba(12, 18, 115, 0.8);
   width: 100%;
   overflow: hidden;
   box-shadow: 0 8px 8px #3a3a3a;
   border-radius: 5px;
+  border: #f1f1f1;
 }
+
+.blue-b{
+  background-color: #0b0a4f;
+  }
 
 /* ========================================================resource links navbar links format*/
 
@@ -86,13 +91,13 @@ main {
   text-align: center;
   padding: 17px 17px;
   text-decoration: none;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 /* ===========================================resource links navbar links active/ hover format*/
 
 .nav a:hover {
-  background-color: #083713;
+  background-color: #095b46;
   color: #34976c;
 }
 
@@ -102,9 +107,10 @@ main {
 }
 
 .nav #crisis {
-  background-color: #41c292f5;
-  color: #f1f1f1;
+  background-color: #4edda9f5;
+  color: #b92828;
   font-size: 1.5rem;
+  font-weight: 600;
 }
 
 /* * div text-bold{
