@@ -13,6 +13,10 @@ header{
     align-items: baseline;
 }
 
+ul{
+    list-style-type: none;
+}
+
 /* =======================================================================jumbotron font style*/
 .mb-3{
     font-family: Sodafi One; sans-serif;
