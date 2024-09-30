@@ -61,6 +61,8 @@ I decided to opt for Google font Lexend, as it has the asset of being one of the
 
 ## Design
 
+I added a dove with a feather icon to the title, as it is a symbol of peace and support.
+
 ### Initial Colour Scheme
 
 Colour therapy was an important consideration. Cool and pastel shades of blue and green are known to have a soothing effect on mind and body, reducing feelings of stress and anxiety, so the design entailed utilising pastel tones synonymous with nature peaceful online visual environment with pastel tones synonymous with nature. Green in particular is efficacious in reducing anxiety, and promoting stress release. 
