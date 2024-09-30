@@ -1,6 +1,10 @@
 /* ===================================================================Font/Favicon imports */
-@import url("https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Sofadi+One&display=swap');
+
+body{
+    background-color: darkseagreen;
+}
 
 header{
     position: sticky;
@@ -17,7 +21,16 @@ ul{
     list-style-type: none;
 }
 
-/* =======================================================================jumbotron font style*/
-.mb-3{
-    font-family: Sodafi One; sans-serif;
+ul a{
+    color: #fcf8f8;
+    text-decoration: none;
 }
+
+ul a:hover{
+color: #14a73ed;
+}
+
+/* =======================================================================jumbotron font style*/
+.mb-3 {
+    font-family: Sofadi One, sans-serif;
+  }
