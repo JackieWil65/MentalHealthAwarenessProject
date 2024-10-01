@@ -4,7 +4,7 @@
 
 #heading-top{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-shadow: 2px 2px #2a2a9e;
+    text-shadow: 2px 2px #052a16;
     letter-spacing: 3px;
 }
 
@@ -12,7 +12,7 @@ header {
   position: sticky;
   top: 0;
   padding: 10px 16px;
-  background-color: #01150e;
+  background-color: #052a16;
   color: #f1f1f1;
   display: flex;
   justify-content: space-between;
@@ -34,7 +34,7 @@ ul a:hover {
 /* =======================================================navbar styles with dropdown toggle */
 nav {
   position: absolute;
-  background-color: #01150e;
+  background-color: #052a16;
   width: 100%;
   left: 0;
   padding: 0 1rem;
