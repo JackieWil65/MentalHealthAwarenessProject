@@ -177,6 +177,9 @@ iPad Pro in landscape view
 
 ## Performance
 
+![alt text](assets/docs/audit.png)
+
+
 ![alt text](assets/docs/wscss.png)
 
 ## Bugs & Fixes
