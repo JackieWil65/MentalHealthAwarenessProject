@@ -95,13 +95,41 @@ I decided to opt for Google font Lexend, as it has the asset of being one of the
 
 **Page Features**
 
-**Tablet & Mobile View**
-
 **Technologies Used**
 
 **Deployment**
 
 **Testing**
+
+Initial round of testing: Chrome Developer Responsiveness Check
+
+Extra small devices (phones, 600px and down)
+Hamburger activated
+
+![alt text](assets/docs/600.png)
+
+Small devices (portrait tablets and large phones, 600px and up)
+Hamburger activated
+
+![alt text](assets/docs/600up.png)
+
+Medium devices (landscape tablets, 768px and up)
+Header navbar activated
+
+![alt text](assets/docs/768up.png)
+
+Extra large devices (large laptops and desktops, 1200px and up)
+
+![alt text](assets/docs/1200up.png)
+
+iPad Pro in landscape view
+
+![alt text](assets/docs/ipadland.png)
+
+
+
+
+
 
 **Performance**
 

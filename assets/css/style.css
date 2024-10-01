@@ -63,6 +63,10 @@ main {
   padding-right: 3rem;
 }
 
+.text-one{
+  font-weight: bold;
+}
+
 /* =======================================================================jumbotron font style*/
 .mb-3 {
   font-family: Sofadi One, sans-serif;
