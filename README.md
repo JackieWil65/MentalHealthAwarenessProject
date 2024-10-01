@@ -1,7 +1,11 @@
-# Primary Focus 
-##  Mental Health Awareness Project
+# Mental Health Awareness Project
 
-Design, creation and deployment of a static Front-End single page website using both HTML and CSS with Bootstrap, engaging with the principles of user experience, accessibility, and device responsivity. The content will include information on mental health awareness, companion resources, and links where applicable. I intend th site to highlight above all the access to resorces, and to encourage visitors to reach out.
+https://jackiewil65.github.io/MentalHealthAwarenessProject/
+
+
+# Primary Focus 
+
+Design, creation and deployment of a static Front-End single page website using both HTML and CSS with Bootstrap, engaging with the principles of user experience, accessibility, and device responsivity. The content will include information on mental health awareness, companion resources, and links where applicable. I intend the site to highlight above all the access to resources, and to encourage visitors to reach out.
 
 ## User Narrative
 
@@ -61,7 +65,7 @@ I decided to opt for Google font Lexend, as it has the asset of being one of the
 
 ## Design
 
-I added a dove with a feather icon to the title, as it is a symbol of peace and support.
+I added a dove with a feather icon to the title, as it is a symbol of peace and support. I added a shadow to the external links section and formatted it to appear to float above the sticky header, to enhance engaement.
 
 ### Initial Colour Scheme
 
@@ -81,25 +85,68 @@ https://color.adobe.com/create/color-contrast-analyzer
 
 ![alt text](assets/docs/image2.png)
 
-### End Colour Scheme
+### Final Colour Scheme
+
+I included shades of cool blue as well as green, to make the colour palette more diverse.
+
+## Typography
+
+I decided to opt for Google font Lexend, as it has the asset of being one of the more accessible fonts for those with dyslexia, and looks informal without being child-like. I used Sodafi One for the jumbotron font.
+
+## Imagery
+
+The images that I have used for this site impart a sense of calm and optimism.
 
 
+## Page Features
+
+Header with page links
+
+Hero image jumbotron
 
 
+External link section
+Bootstrap cards with images and positive affirmations
 
-### Typography
+Content outlining mental health issues
 
-I decided to opt for Google font Lexend, as it has the asset of being one of the more accessible fonts for those with dyslexia, and looks informal without being child-like.
+A footer with social media links
 
-**Imagery**
 
-**Page Features**
+## Technologies Used
 
-**Technologies Used**
+### **Languages Used**   
 
-**Deployment**
+- HTML5
+- CSS3
 
-**Testing**
+### **Frameworks, Libraries, Technologies & Programs Used**  
+
+ 
+- GitHub - file storage  
+- Git - version control system
+- Google Fonts
+- Font Awesome - icons and their associated kit 
+- Adobe Color - for  color palettes and accessibility contrast ratios 
+- Coolors AI colour generator
+- icon8 for dove in title bar 
+- Google Dev Tools - testing responsiveness 
+- Google Lighthouse - for auditing the website
+- W3C Validator - for validating the HTML and CSS code 
+
+## Deployment
+
+GitHub was used to deploy the website. These were the steps taken to acheive this:  
+
+1. Login to GitHub account
+2. access required project repository
+3. Click the Settings
+4. In the left-hand menu, click on the Pages button
+5. In the Source select 'main' from the drop-down, then select 'branch' menu
+6. Select 'root' from the drop-down folder menu
+7. Click 'Save' button and ensure site is live with a link is visible on top of page
+
+## Testing
 
 Initial round of testing: Chrome Developer Responsiveness Check
 
@@ -126,21 +173,47 @@ iPad Pro in landscape view
 
 ![alt text](assets/docs/ipadland.png)
 
+![alt text](assets/docs/resp.png)
+
+## Performance
+
+![alt text](assets/docs/wscss.png)
+
+## Bugs & Fixes
+
+## Unsolved Bugs
+
+
+![alt text](assets/docs/w3html.png)
+
+Error 1 a paste from an icon site
+Errors 2 and 3 the same, but when background-color changed to body tag, the background colour returned to default.
 
 
 
+## Content References
 
+https://www.mind.org.uk/
 
-**Performance**
+https://www.mentalhealth.org.uk/
 
-**Bugs & Fixes**
+https://www.mhm.org.uk/
 
-**Unsolved Bugs**
+## Credits
 
-**Credits**
+Code Institute (https://codeinstitute.net/ie/) for their learning material, and Amy Richarson for her tutorial support.
 
-**Content References**
+W3Schools
 
-**Media References**
+MDN Web Docs
 
-**Acknowledgements**
+Kevin Powell for youtube tutorials
+
+## Media References
+
+Pexels for all images used on this site. Credit to photographers Chuot Anhls, B Packerman, Pixabay, timegrocery.
+Font Awesome for the icons used in the link section body section and footer of this site.
+
+## Acknowledgements
+
+I would like to thank Amy Richardson for her tutorial support, and generous and valuable offer of her own README template as guidance. I would also like to thank my son for putting up with being regularly called into my study for feedback!
