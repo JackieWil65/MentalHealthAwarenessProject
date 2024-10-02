@@ -5,7 +5,9 @@ https://jackiewil65.github.io/MentalHealthAwarenessProject/
 
 # Primary Focus 
 
+```
 Design, creation and deployment of a static Front-End single page website using both HTML and CSS with Bootstrap, engaging with the principles of user experience, accessibility, and device responsivity. The content will include information on mental health awareness, companion resources, and links where applicable. I intend the site to highlight above all the access to resources, and to encourage visitors to reach out.
+```
 
 ## User Narrative
 
@@ -54,9 +56,11 @@ The simple, three-item navigation bar of 'Home', 'Menu', and 'Contact', is situa
 A large hero image dominating the top section of the page.
 I decided to opt for Google font Lexend, as it has the asset of being one of the more accessible fonts for those with dyslexia, and looks informal without being child-like.
 
-### Surface
+### Structural
 
-      The final stage, concerned with the users’ sensory experience. Colours and textures employed in the visual design to aid page navigation and interactivity. Also how presentation of content draws the eye to key information. 
+```
+The final stage, concerned with users’ sensory experience. Colours and textures employed in the visual design to aid page navigation and interactivity. Also how presentation of content draws the eye to key information. 
+```
  
 
 ## Wireframe
@@ -87,7 +91,10 @@ https://color.adobe.com/create/color-contrast-analyzer
 
 ### Final Colour Scheme
 
-I included shades of cool blue as well as green, to make the colour palette more diverse.
+I included shades of cool blue as well as green, to make the colour palette more diverse, but still peaceful.
+
+![alt text](assets/docs/blue.png)
+
 
 ## Typography
 
@@ -148,7 +155,11 @@ GitHub was used to deploy the website. These were the steps taken to acheive thi
 
 ## Testing
 
-Initial round of testing: Chrome Developer Responsiveness Check
++ Manual Testing
+
+![alt text](assets/docs/manualtest.png)
+
++ Initial round of tech testing: Chrome Developer Responsiveness Check
 
 Extra small devices (phones, 600px and down)
 Hamburger activated
@@ -234,4 +245,4 @@ Font Awesome for the icons used in the link section body section and footer of t
 
 ## Acknowledgements
 
-I would like to thank Amy Richardson for her tutorial support, and generous and valuable offer of her own README template as guidance. I would also like to thank my son for putting up with being regularly called into my study for feedback!
+I would like to thank Amy Richardson for her tutorial support, and generous and valuable offer of her own README to inspire organisation my own template. I would also like to thank my son for putting up with being regularly called into my study for feedback!
