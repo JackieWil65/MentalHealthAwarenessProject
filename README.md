@@ -1,6 +1,6 @@
 # Mental Health Awareness Project
 
-https://jackiewil65.github.io/MentalHealthAwarenessProject/
+
 
 
 # Primary Focus 
