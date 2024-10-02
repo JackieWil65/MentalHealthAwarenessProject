@@ -193,6 +193,8 @@ iPad Pro in landscape view
 
 ![alt text](assets/docs/audit.png)
 
+This output illustrates that for future projects I perhaps need to compress or reduce image sizes
+
 + Accessibility WAVE test
 
 ![alt text](assets/docs/wave.png)
