@@ -132,6 +132,7 @@ The images that I have used for this site impart a sense of calm and optimism.
  
 - GitHub - file storage  
 - Git - version control system
+- Balsamiq
 - Google Fonts
 - Font Awesome - icons and their associated kit 
 - Adobe Color - for  color palettes and accessibility contrast ratios 
