@@ -86,7 +86,7 @@ main {
 
 .blue-b{
   background-color: #0b0a4f;
-  }
+}
 
 /* ========================================================resource links navbar links format*/
 
@@ -120,10 +120,7 @@ main {
   font-weight: 600;
 }
 
-/* * div text-bold{
-    font-weight: 1000;
-    color: rgb(13,43,13);
-} */
+
 
 /* ====================================================================main text and lists style*/
 .heading3 {

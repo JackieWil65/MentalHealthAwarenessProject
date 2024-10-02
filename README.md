@@ -177,12 +177,21 @@ iPad Pro in landscape view
 
 ## Performance
 
++ Lighthouse Test
+
 ![alt text](assets/docs/audit.png)
 
++ Accessibility WAVE test
 
-![alt text](assets/docs/wscss.png)
+![alt text](assets/docs/wave.png)
+
+This test highlighted issues with the site. Certainly something to be addressed with further development.
 
 ## Bugs & Fixes
+
+All clear with css validation
+
+![alt text](assets/docs/wscss.png)
 
 ## Unsolved Bugs
 
@@ -197,6 +206,8 @@ iPad Pro in landscape view
 + Errors 2 and 3 the same, but when background-color changed to body tag, the background colour returned to default.
 
 ![alt text](assets/docs/bodyerror.png)
+
+
 
 ## Content References
 
