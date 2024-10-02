@@ -100,17 +100,17 @@ The images that I have used for this site impart a sense of calm and optimism.
 
 ## Page Features
 
-Header with page links
++ Header with page links
 
-Hero image jumbotron
++ Hero image jumbotron
 
++ External link section
 
-External link section
-Bootstrap cards with images and positive affirmations
++ Bootstrap cards with images and positive affirmations
 
-Content outlining mental health issues
++ Content outlining mental health issues
 
-A footer with social media links
++ A footer with social media links
 
 
 ## Technologies Used
@@ -189,10 +189,14 @@ iPad Pro in landscape view
 
 ![alt text](assets/docs/w3html.png)
 
-Error 1 a paste from an icon site
-Errors 2 and 3 the same, but when background-color changed to body tag, the background colour returned to default.
++ Error 1 a paste from an icon site
 
 
+![alt text](assets/docs/dove.png)
+
++ Errors 2 and 3 the same, but when background-color changed to body tag, the background colour returned to default.
+
+![alt text](assets/docs/bodyerror.png)
 
 ## Content References
 
@@ -204,18 +208,18 @@ https://www.mhm.org.uk/
 
 ## Credits
 
-Code Institute (https://codeinstitute.net/ie/) for their learning material, and Amy Richarson for her tutorial support.
++ Code Institute (https://codeinstitute.net/ie/) for their learning material, and Amy Richarson for her tutorial support.
 
-W3Schools
++ W3Schools
 
-MDN Web Docs
++ MDN Web Docs
 
-Kevin Powell for youtube tutorials
++ Kevin Powell for youtube tutorials
 
 ## Media References
 
-Pexels for all images used on this site. Credit to photographers Chuot Anhls, B Packerman, Pixabay, timegrocery.
-Font Awesome for the icons used in the link section body section and footer of this site.
+Pexels for all photographic images used on this site. Credit to photographers Chuot Anhls, B Packerman, Pixabay, timegrocery.
+Font Awesome for the icons used in the link section body section and footer of this site. icon8 for title favicon.
 
 ## Acknowledgements
 
